@@ -1,0 +1,8 @@
+
+hello = "Bonjour développeur Play!"
+
+bye = "Au revoir"
+
+# When used, this key will substitute the x argument given to Messages("...",x)  call where the {0} string is. 
+welcome.back = "Bienvenue à nouveau, {0}"
+
