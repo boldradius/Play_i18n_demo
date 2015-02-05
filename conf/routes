@@ -2,9 +2,10 @@
 
 GET     /alwaysDefault              controllers.Application.alwaysDefault
 GET     /alwaysDefaultWithRequest   controllers.Application.alwaysDefaultWithRequest
+GET     /explicitLanguageIgnored    controllers.Application.explicitLanguageIgnored
 GET     /explicitLanguageV1         controllers.Application.explicitLanguageV1
 GET     /explicitLanguageV2         controllers.Application.explicitLanguageV2
-GET     /explicitLanguageIgnored    controllers.Application.explicitLanguageIgnored
+GET     /explicitLanguageV3         controllers.Application.explicitLanguageV3
 GET     /                           controllers.Application.index
 
 # Map static resources from the /public folder to the /assets URL path
