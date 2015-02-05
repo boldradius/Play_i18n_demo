@@ -1,4 +1,10 @@
-This is your new Play 2.1 application
-=====================================
+This is a Play 2.1 application showcasing Internationalization
+==============================================================
+
+This project is meant to demonstrate what works and doesn't to get language
+preferences set in web browsers to be used by the play.api.i18n.Messages object. 
 
 This file will be packaged with your application, when using `play dist`.
+
+
+
